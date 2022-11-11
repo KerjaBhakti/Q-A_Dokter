@@ -1,4 +1,4 @@
-# Q-A_Dokter
+# QNA_Dokter
 Silahkan isi Laporan dan Aplikasi pada Folder diatas
 
 
