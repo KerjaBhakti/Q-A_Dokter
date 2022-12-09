@@ -1,0 +1,5 @@
+1. Citasi Perbaiki sesuai Standar IEEE/APPA (PANduan)
+2. Bab 2 (Penjelasan Q&A)
+3. Gunakan Flowmaps agar terlihat aktornya (user) (Berjalan & Dibangun)
+4. Deskripsi Flowmap
+5. Cari tentang pengujian (Selenium, Code Coverage) dll
