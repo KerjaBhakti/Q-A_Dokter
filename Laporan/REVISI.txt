@@ -1,9 +1,10 @@
 LAPORAN:
-1. Citasi Perbaiki sesuai Standar IEEE/APPA (PANduan)
+1. Citasi Perbaiki sesuai Standar IEEE/APPA (PANduan) (SUDAH)
 2. Bab 2 (Penjelasan Q&A) (SUDAH)
 3. Gunakan Flowmaps agar terlihat aktornya (user) (Berjalan & Dibangun) (SUDAH)
 4. Deskripsi Flowmap (SUDAH)
 5. Cari tentang pengujian (Selenium, Code Coverage) dll
+6. Penambahan diagram sequance (SUDAH)
 
 APLIKASI:
 1. Buat Dashboardnya
