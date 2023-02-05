@@ -22,7 +22,11 @@ s0.parentNode.insertBefore(s1,s0);
         <div class="header">
  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKQfHfAh2Ke9IFTbtiwzQ93GUyXz12es6eGw&usqp=CAU" class="logo"/></a>
   <div class="header-right">
-    <!--<a class="active mitem" href="/index.php">Home</a>-->
+
+
+    <!--<a href="dashboard/login.php"><button type="button" class="btn btn-outline-info">login</button></a>
+  <a href="dashboard/register.php"><button type="button" class="btn btn-outline-info">Daftar</button></a>
+  <a class="active mitem" href="/index.php">Home</a>-->
     
 
 
@@ -37,13 +41,18 @@ s0.parentNode.insertBefore(s1,s0);
      <a href="/exportsandbox.php" class="mitem">Export Sandbox</a>
      <a href="/deletesandbox.php" class="mitem">Delete Sandbox</a>-->
       <!--<a href="/createsandboxuser.php" class="mitem">Create Sandbox User</a>-->
-    </div>
-  </div>
 
+    </div>
+    
+    
+    
+  </div>
+  
     <!--<a href="https://wa.me/6281214704713" target="_blank" class="mitem">Contact</a>-->
    <!-- <a href="https://developer.nbg.gr/" target="_blank" class="mitem">Portal</a>-->
       <!--<a href="https://github.com/myNBGcode" target="_blank" class="mitem">Github</a>-->
   </div>
 </div>
+
     </body>
 </html>
